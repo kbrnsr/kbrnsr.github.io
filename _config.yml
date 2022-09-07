@@ -32,6 +32,8 @@ minima:
   social_links:
     github: kbrnsr
     linkedin: kbrnsr
+    facebook: kabeern
+    stackoverflow: "3240064"
 
 # Build settings
 theme: minima
