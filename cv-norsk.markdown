@@ -1,26 +1,11 @@
 ---
-layout: page
-title: CV - KABEER NASIR[no]
-permalink: /cv-norsk/
+layout: cv
+title: CV [no]
+title_show: CV – KABEER NASIR [no]
+permalink: /cv-no/
 ---
 
-<p style="text-align: center;">
-  <a href="https://github.com/kbrnsr">
-    <img
-      style="height: 1em; width: auto"
-      src="/assets/github/GitHub-Mark-32px.png" />
-     github.com/kbrnsr
-  </a>
-   | 
-  <a href="https://www.linkedin.com/in/kbrnsr/">
-    <img
-      style="height: 1em; width: auto" 
-      src="/assets/linkedin/LI-Logo-32px.png" />
-     linkedin.com/in/kbrnsr
-  </a>
-</p>
-
-# Intro/Nøkkelkvalifikasjoner
+## Intro/Nøkkelkvalifikasjoner
 
 Jeg har bachelorgrad fra UiO og mer enn fire års erfaring med utvikling av løsninger. I 2016 reorganiserte firmaet der jeg jobbet, og jeg fikk tilbud om sluttpakke som jeg aksepterte. Jeg jobbet for familiebedriften til det av eksterne grunner måtte avvikle driften. Etter det bestemte meg for å ta videreutdanning i full stack utvikling, og har etter fullføring av videreutdanning jobbet med egne prosjekter for å øke ferdighetene mine. Jeg er åpen for nye utfordringer og muligheter i en fast jobb der jeg kan bli og utvikle meg videre.
 
@@ -35,7 +20,7 @@ Mine faglige nøkkelkvalifikasjoner er:
 * Erfaring med bruk og bygging av Docker containere
 * Feilsøking og optimalisering av kode.
 
-# Arbeidserfaring
+## Arbeidserfaring
 
 <table>
   <tr>
@@ -48,7 +33,7 @@ Mine faglige nøkkelkvalifikasjoner er:
       <li>4 uker med fokus på grunnleggende drift med Microsoft 365 og Azure.</li>
       <li>16 uker med fokus på JavaScript, HTML/CSS, React, Redux, Node.js, Express og PostgreSQL.</li>
     </ul>
-    Microsoft 365 | Microsoft Azure | JavaScript | HTML | CSS | React | Redux | Node.js | Express | Axios-http | PostgreSQL | Git | Visual Studio Code
+    JavaScript | HTML | CSS | Microsoft 365 | Microsoft Azure | Node.js | React | Redux | Express | Axios-http | PostgreSQL | Git | Visual Studio Code
     </td>
   </tr>
   <tr>
@@ -61,7 +46,7 @@ Mine faglige nøkkelkvalifikasjoner er:
         <li>Videreutvikling og forbedringer av systemer for Test Data Management.</li>
         <li>Effektivisering og automatisering av støtteverktøy i utviklingsprosessen.</li>
       </ul>
-      Linux | Red Hat Enterprise Linux | Ubuntu LTS | Subversion | Git | Crowd | Confluence | JIRA | Bitbucket | Fisheye | Crucible | Nexus Repository Manager | SonarQube | Jenkins | Docker | Nagios monitoring | MySQL Server | Oracle Database | Shell scripting | Python | C
+      Shell scripting | Python | C | Linux | Red Hat Enterprise Linux | Ubuntu LTS | Subversion | Git | Crowd | Confluence | JIRA | Bitbucket | Fisheye | Crucible | Nexus Repository Manager | SonarQube | Jenkins | Docker | Nagios monitoring | MySQL Server | Oracle Database
     </td>
   </tr>
   <tr>
@@ -70,13 +55,15 @@ Mine faglige nøkkelkvalifikasjoner er:
       <strong>EVRY Financial services (TietoEVRY)</strong><br />
       Programvareutvikler<br />
       Utvikling og forbedring av systemer for Test Data Management. Sentrale oppgaver besto av Python/Linux basert utvikling av intern verktøy for maskering av sensitive person opplysninger lagret i Oracle databaser.<br />
-      Andre oppgaver besto av distribuering, administrasjon og drift av server programvare benyttet i utviklingsprosessen.<br />
-      Linux | Red Hat Enterprise Server | Ubuntu LTS | Subversion | Oracle database | Shell scripting | Python | C
+      Andre oppgaver besto av distribuering, administrasjon og drift av server programvare benyttet i utviklingsprosessen.
+      <p>
+        Shell scripting | Python | C | Linux | Red Hat Enterprise Server | Ubuntu LTS | Subversion | Oracle database
+      </p>
     </td>
   </tr>
 </table>
 
-# Utdanning
+## Utdanning
 
 <table>
   <tr>
@@ -89,7 +76,16 @@ Mine faglige nøkkelkvalifikasjoner er:
   </tr>
 </table>
 
-# Språk
+## Teknisk
 
-Norsk | Meget godt skriftlig og flytende muntlig
-Engelsk | Meget godt skriftlig og flytende muntlig
+Programmeringsspråk | JavaScript \| Typscript \| HTML \| CSS \| Python \| C \| Shell-skripting
+Rammeverk | Node.js \| React \| Redux \| Express \| Axios-http
+Plattformer og operativsystemer | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS
+Verktøy | Git \| Visual Studio Code \| Subversion
+Databaser | MongoDB \| Oracle database \| MySQL Server
+Øvrige verktøy | Docker \| Jenkins \| Nexus Repository Manager \| SonarQube \| Nagios monitoring \| Atlassian Crowd \| Confluence \| JIRA \| Bitbucket \| Fisheye \| Crucible
+
+## Språk
+
+Norsk | flytende, skriftlig og muntlig
+Engelsk | flytende, skriftlig og muntlig
