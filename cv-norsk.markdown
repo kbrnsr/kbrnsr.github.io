@@ -56,8 +56,7 @@ Mine faglige nøkkelkvalifikasjoner er:
       Programvareutvikler<br />
       Utvikling og forbedring av systemer for Test Data Management. Sentrale oppgaver besto av Python/Linux basert utvikling av intern verktøy for maskering av sensitive person opplysninger lagret i Oracle databaser.<br />
       Andre oppgaver besto av distribuering, administrasjon og drift av server programvare benyttet i utviklingsprosessen.
-      <br />
-      <p>
+      <p style="padding-top: 1em">
         Shell scripting | Python | C | Linux | Red Hat Enterprise Server | Ubuntu LTS | Subversion | Oracle database
       </p>
     </td>
