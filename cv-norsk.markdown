@@ -11,8 +11,6 @@ Jeg har bachelorgrad fra UiO og mer enn fire års erfaring med utvikling av løs
 
 Andre mener jeg har en hyggelig og profesjonell fremtreden og væremåte.
 
-For øyeblikket forbereder jeg meg på å skifte sivil status i oktober og har mulighet til å begynne fra november.
-
 Mine faglige nøkkelkvalifikasjoner er:
 * Erfaring med ren programmering/arkitektur for utvikling av kode som skal være lett å vedlikeholde.
 * Erfaring med frontend-/fullstack-programmering med ulike verktøy (Javascript, React, node.js etc.)
