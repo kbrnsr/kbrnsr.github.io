@@ -28,10 +28,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 minima:
   social_links:
-    github: kbrnsr
-    linkedin: kbrnsr
-    facebook: kabeern
-    stackoverflow: "3240064"
+    - { platform: rss, user_url: https://kbrnsr.com/feed.xml}
+    - { platform: github, user_url: "https://github.com/kbrnsr" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/kbrnsr/" }
+    - { platform: facebook, user_url: "https://www.facebook.com/kabeern" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/3240064/" }
 
 # Build settings
 plugins:
