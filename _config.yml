@@ -27,6 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   the Universe and absolutely nothing about the site itself.
 
 minima:
+  skin:
+    - auto
   social_links:
     - { platform: rss, user_url: https://kbrnsr.com/feed.xml}
     - { platform: github, user_url: "https://github.com/kbrnsr" }
