@@ -1,10 +1,10 @@
 // Update the VARIANT arg in docker-compose.yml to pick a Ruby version
 {
-	"name": "kbrnr.github.io-jekyll",
+	"name": "kbrnsr.github.io-jekyll",
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "jekyll",
 	"workspaceFolder": "/workspaces/github/${localWorkspaceFolderBasename}",
-	"postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && bundler exec jekyll server&"
+	"postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && bundler exec jekyll serve --livereload"
 	// Features to add to the dev container. More info: https://containers.dev/implementors/features.
 	// "features": {},
 
