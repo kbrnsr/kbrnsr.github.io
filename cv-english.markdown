@@ -73,12 +73,12 @@ My key professional qualifications are:
 
 ## Technical
 
-Programming languages | JavaScript \| Typscript \| HTML \| CSS \| Python \| C \| Shell-skripting
-Frameworks | Node.js \| React \| Redux \| Express \| Axios-http
-Platforms and operating systems | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS \| Docker Desktop
-Tools | Git \| Visual Studio Code \| Subversion
-Databases | MongoDB \| Oracle database \| MySQL Server \| PostgreSQL
-Other tools | Docker \| Jenkins \| Nexus Repository Manager \| SonarQube \| Nagios monitoring \| Atlassian Crowd \| Confluence \| JIRA \| Bitbucket \| Fisheye \| Crucible
+**Programming languages** | JavaScript \| Typscript \| HTML \| CSS \| Python \| C \| Shell-skripting
+**Frameworks** | Node.js \| React \| Redux \| Express \| Axios-http
+**Platforms and operating systems** | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS \| Docker Desktop
+**Tools** | Git \| Visual Studio Code \| Subversion
+**Databases** | MongoDB \| Oracle database \| MySQL Server \| PostgreSQL
+**Other tools** | Docker \| Jenkins \| Nexus Repository Manager \| SonarQube \| Nagios monitoring \| Atlassian Crowd \| Confluence \| JIRA \| Bitbucket \| Fisheye \| Crucible
 
 ## Kurs
 

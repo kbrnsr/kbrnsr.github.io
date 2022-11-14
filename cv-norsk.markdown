@@ -78,10 +78,10 @@ Mine faglige nøkkelkvalifikasjoner er:
 ## Teknisk
 
 **Programmeringsspråk** | JavaScript \| Typscript \| HTML \| CSS \| Python \| C \| Shell-skripting
-Rammeverk | Node.js \| React \| Redux \| Express \| Axios-http
+**Rammeverk** | Node.js \| React \| Redux \| Express \| Axios-http
 **Plattformer og operativsystemer** | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS \| Docker Desktop 
 **Verktøy** | Git \| Visual Studio Code \| Subversion
-Databaser | MongoDB \| Oracle database \| MySQL Server \| PostgreSQL
+**Databaser** | MongoDB \| Oracle database \| MySQL Server \| PostgreSQL
 **Øvrige verktøy** | Docker \| Jenkins \| Nexus Repository Manager \| SonarQube \| Nagios monitoring \| Atlassian Crowd \| Confluence \| JIRA \| Bitbucket \| Fisheye \| Crucible
 
 ## Kurs
