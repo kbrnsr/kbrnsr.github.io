@@ -12,11 +12,12 @@ Jeg har bachelorgrad fra UiO og mer enn fire års erfaring med utvikling av løs
 Andre mener jeg har en hyggelig og profesjonell fremtreden og væremåte.
 
 Mine faglige nøkkelkvalifikasjoner er:
-* Erfaring med ren programmering/arkitektur for utvikling av kode som skal være lett å vedlikeholde.
-* Erfaring med frontend-/fullstack-programmering med ulike verktøy (Javascript, React, node.js etc.)
-* Erfaring med devops-verktøy som Jenkins
-* Erfaring med bruk og bygging av Docker containere
+* Erfaring med ren programmering/arkitektur for utviklingen av kode som skal være lett å vedlikeholde.
+* Erfaring med frontend-/fullstack-programmering med ulike verktøy (JavaScript, React, node.js etc).
+* Erfaring med DevOps verktøy som Jenkins.
+* Erfaring med bruk og bygging av Docker images.
 * Feilsøking og optimalisering av kode.
+* System administrasjon.
 
 ## Arbeidserfaring
 
@@ -29,7 +30,7 @@ Mine faglige nøkkelkvalifikasjoner er:
     20 ukers skybasert intensivkurs delt inn i to seksjoner:<br />
     <ul>
       <li>4 uker med fokus på grunnleggende drift med Microsoft 365 og Azure.</li>
-      <li>16 uker med fokus på JavaScript, HTML/CSS, React, Redux, Node.js, Express og PostgreSQL.</li>
+      <li>16 uker med fokus på JavaScript, HTML/CSS, React, Redux, Node.js, Express, og DevOps.</li>
     </ul>
     JavaScript | HTML | CSS | Microsoft 365 | Microsoft Azure | Node.js | React | Redux | Express | Axios-http | PostgreSQL | Git | Visual Studio Code
     </td>
@@ -52,8 +53,8 @@ Mine faglige nøkkelkvalifikasjoner er:
     <td>
       <strong>EVRY Financial services (TietoEVRY)</strong><br />
       Programvareutvikler<br />
-      Utvikling og forbedring av systemer for Test Data Management. Sentrale oppgaver besto av Python/Linux basert utvikling av intern verktøy for maskering av sensitive person opplysninger lagret i Oracle databaser.<br />
-      Andre oppgaver besto av distribuering, administrasjon og drift av server programvare benyttet i utviklingsprosessen.
+      Utvikling og forbedring av systemer for Test Data Management. Sentrale oppgaver besto av Python/Linux basert utvikling av en intern verktøy for maskering av sensitive person opplysninger lagret i Oracle databaser.<br />
+      Andre oppgaver besto av distribuering, administrasjon, og drift av server programvare benyttet i utviklingsprosessen.
       <p style="padding-top: 1em">
         Shell scripting | Python | C | Linux | Red Hat Enterprise Server | Ubuntu LTS | Subversion | Oracle database
       </p>
@@ -78,7 +79,7 @@ Mine faglige nøkkelkvalifikasjoner er:
 
 Programmeringsspråk | JavaScript \| Typscript \| HTML \| CSS \| Python \| C \| Shell-skripting
 Rammeverk | Node.js \| React \| Redux \| Express \| Axios-http
-Plattformer og operativsystemer | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS
+Plattformer og operativsystemer | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS \| Docker Desktop 
 Verktøy | Git \| Visual Studio Code \| Subversion
 Databaser | MongoDB \| Oracle database \| MySQL Server
 Øvrige verktøy | Docker \| Jenkins \| Nexus Repository Manager \| SonarQube \| Nagios monitoring \| Atlassian Crowd \| Confluence \| JIRA \| Bitbucket \| Fisheye \| Crucible
