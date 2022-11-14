@@ -13,7 +13,7 @@ Andre mener jeg har en hyggelig og profesjonell fremtreden og væremåte.
 
 Mine faglige nøkkelkvalifikasjoner er:
 * Erfaring med ren programmering/arkitektur for utviklingen av kode som skal være lett å vedlikeholde.
-* Erfaring med frontend-/fullstack-programmering med ulike verktøy (JavaScript, React, node.js etc).
+* Erfaring med frontend/full stack programmering med ulike verktøy (JavaScript, React, node.js etc).
 * Erfaring med DevOps verktøy som Jenkins.
 * Erfaring med bruk og bygging av Docker images.
 * Feilsøking og optimalisering av kode.
@@ -26,7 +26,7 @@ Mine faglige nøkkelkvalifikasjoner er:
     <td><strong>10.2020 – 03.2021</strong></td>
     <td>
     <strong>Glasspaper AS</strong><br />
-    Kursdeltaker | Full stack/frontend utvikler<br />
+    Kursdeltaker | Full-stack/frontend utvikler<br />
     20 ukers skybasert intensivkurs delt inn i to seksjoner:<br />
     <ul>
       <li>4 uker med fokus på grunnleggende drift med Microsoft 365 og Azure.</li>
@@ -70,21 +70,25 @@ Mine faglige nøkkelkvalifikasjoner er:
     <td>
       <strong>Universitetet i Oslo (UiO)</strong><br />
       Informatikk (bachelor)<br />
-      Implementering og evaluering av brukergrensesnitt | Abstraksjoner og programmering av operativsystemer | Datakommunikasjon | Databasehåndteringsystemer | Algoritmer og datastrukturer | Programmering og scripting i Python | Konstruksjon og analyse av elektriske kretser | Datamodellering | Systemutvikling | Open source programvare utvikling
+      Implementering og evaluering av brukergrensesnitt | Abstraksjoner og programmering av operativsystemer | Datakommunikasjon | Databasehåndteringsystemer | Algoritmer og datastrukturer | Programmering og scripting i Python | Konstruksjon og analyse av elektriske kretser | Datamodellering | Systemutvikling | Open Source programvare utvikling
     </td>
   </tr>
 </table>
 
 ## Teknisk
 
-Programmeringsspråk | JavaScript \| Typscript \| HTML \| CSS \| Python \| C \| Shell-skripting
+**Programmeringsspråk** | JavaScript \| Typscript \| HTML \| CSS \| Python \| C \| Shell-skripting
 Rammeverk | Node.js \| React \| Redux \| Express \| Axios-http
-Plattformer og operativsystemer | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS \| Docker Desktop 
-Verktøy | Git \| Visual Studio Code \| Subversion
-Databaser | MongoDB \| Oracle database \| MySQL Server
-Øvrige verktøy | Docker \| Jenkins \| Nexus Repository Manager \| SonarQube \| Nagios monitoring \| Atlassian Crowd \| Confluence \| JIRA \| Bitbucket \| Fisheye \| Crucible
+**Plattformer og operativsystemer** | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS \| Docker Desktop 
+**Verktøy** | Git \| Visual Studio Code \| Subversion
+Databaser | MongoDB \| Oracle database \| MySQL Server \| PostgreSQL
+**Øvrige verktøy** | Docker \| Jenkins \| Nexus Repository Manager \| SonarQube \| Nagios monitoring \| Atlassian Crowd \| Confluence \| JIRA \| Bitbucket \| Fisheye \| Crucible
+
+## Kurs
+
+**2020** | 20 ukers videreutdanning i full stack/frontend utvkling og DevOps hos Glasspaper AS.
 
 ## Språk
 
-Norsk | flytende, skriftlig og muntlig
-Engelsk | flytende, skriftlig og muntlig
+**Norsk** | Flytende, skriftlig og muntlig
+**Engelsk** | Flytende, skriftlig og muntlig

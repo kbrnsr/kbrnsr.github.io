@@ -9,7 +9,7 @@ permalink: /cv-en/
 
 My key professional qualifications are:
 * Experience with clean programming/architecture for the development of easily maintainable code.
-* Experience with frontend-/fullstack-programming with different tools (JavaScript, React, node.js, etc).
+* Experience with frontend/full stack programming with different tools (JavaScript, React, node.js, etc).
 * Experience with DevOps tools like Jenkins.
 * Experience with using and building Docker images.
 * Troubleshooting and optimization of code.
@@ -66,7 +66,7 @@ My key professional qualifications are:
     <td>
       <strong>University of Oslo (UiO)</strong><br />
       Computer science (bachelor)<br />
-      Implementation and evaluation of user interfaces | Operating system abstractions and programming | Computer communication | Database management systems | Programming and scripting in Python | Construction and analysis of electrical circuits | Data modeling | Systems development | Open source software development
+      Implementation and evaluation of user interfaces | Operating system abstractions and programming | Computer communication | Database management systems | Programming and scripting in Python | Construction and analysis of electrical circuits | Data modeling | Systems development | Open Source software development
     </td>
   </tr>
 </table>
@@ -77,10 +77,14 @@ Programming languages | JavaScript \| Typscript \| HTML \| CSS \| Python \| C \|
 Frameworks | Node.js \| React \| Redux \| Express \| Axios-http
 Platforms and operating systems | Microsoft 365 \| Microsoft Azure \| Microsoft Windows \| Linux \| Red Hat Enterprise Linux \|  RHEL \| Ubuntu LTS \| Docker Desktop
 Tools | Git \| Visual Studio Code \| Subversion
-Databaser | MongoDB \| Oracle database \| MySQL Server
+Databases | MongoDB \| Oracle database \| MySQL Server \| PostgreSQL
 Other tools | Docker \| Jenkins \| Nexus Repository Manager \| SonarQube \| Nagios monitoring \| Atlassian Crowd \| Confluence \| JIRA \| Bitbucket \| Fisheye \| Crucible
+
+## Kurs
+
+**2020** | 20-week advanced training in full stack/frontend development and DevOps at Glasspaper AS.
 
 ## Languages
 
-Norwegian | fluent, written and oral
-English | fluent, written and oral
+Norwegian | Fluent, written and oral
+English | Fluent, written and oral
