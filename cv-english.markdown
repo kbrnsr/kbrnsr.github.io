@@ -86,5 +86,5 @@ My key professional qualifications are:
 
 ## Languages
 
-Norwegian | Fluent, written and oral
-English | Fluent, written and oral
+**Norwegian** | Fluent, written and oral
+**English** | Fluent, written and oral
