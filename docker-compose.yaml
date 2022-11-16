@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: .docker/Dockerfile
+      args:
+        - RUBY_VERSION
+    ports:
+      - "127.0.0.1:4000:4000"
+      - "127.0.0.1:35729:35729"
+    volumes:
+      - ./.:${CONTAINER_WORKSPACE_FOLDER}/${COMPOSE_PROJECT_NAME}:cached
+    working_dir: ${CONTAINER_WORKSPACE_FOLDER}/${COMPOSE_PROJECT_NAME}
+    # Overrides default command so things don't shut down after the process ends.
+    command: sleep infinity
