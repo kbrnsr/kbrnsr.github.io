@@ -4,6 +4,5 @@
 	"service": "app",
 	"workspaceFolder": "/workspaces/github/${localWorkspaceFolderBasename}",
 	"shutdownAction": "stopCompose",
-	"postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && bundle exec jekyll serve --watch --force_polling --verbose --livereload bundler exec jekyll serve --livereload --host 0.0.0.0",
-	"forwardPorts": [4000, 35729]
+	"postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && bundle exec jekyll serve --watch --force_polling --verbose --livereload bundler exec jekyll serve --livereload --host 0.0.0.0"
 }
