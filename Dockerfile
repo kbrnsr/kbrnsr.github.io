@@ -38,7 +38,5 @@ RUN groupadd --gid $USER_GID $USERNAME \
 # * Anything else you want to do like clean up goes here *
 # ********************************************************
 # [Optional] Set the default user. Omit if you want to keep the default as root.
-RUN mkdir /workspaces \
-  && chown $USER_UID:$USER_GID -R /workspaces
-USER $USERNAME
 ENTRYPOINT [ "/bin/bash" ]
+USER $USERNAME
