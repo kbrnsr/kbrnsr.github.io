@@ -41,3 +41,4 @@ RUN groupadd --gid $USER_GID $USERNAME \
 RUN mkdir /workspaces \
   && chown $USER_UID:$USER_GID -R /workspaces
 USER $USERNAME
+ENTRYPOINT [ "/bin/bash" ]
