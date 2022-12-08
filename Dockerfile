@@ -15,7 +15,7 @@ RUN set -eux; \
   apt-get purge -y --auto-remove -o APT::AutoRemove::RecommendsImportant=false;
 COPY . .
 
-ARG USERNAME=node
+ARG USERNAME=ruby
 ARG USER_UID=1000
 ARG USER_GID=$USER_UID
 FROM builder AS development
