@@ -1,8 +1,9 @@
 {
 	"name": "kbrnsr.github.io",
-	"dockerComposeFile": "../docker-compose.yaml",
+	"dockerComposeFile": "../compose.yaml",
 	"service": "app",
-	"workspaceFolder": "/workspaces/github/${localWorkspaceFolderBasename}",
+	"workspaceFolder": "/${localWorkspaceFolderBasename}",
 	"shutdownAction": "stopCompose",
-	"postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && bundle exec jekyll serve --watch --force_polling --verbose --livereload bundler exec jekyll serve --livereload --host 0.0.0.0"
+	"postStartCommand": "bundle exec jekyll serve --watch --force_polling --verbose --livereload --host 0.0.0.0",
+  "containerUser": "ruby"
 }
