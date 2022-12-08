@@ -2,7 +2,7 @@
 	"name": "kbrnsr.github.io",
 	"dockerComposeFile": "../compose.yaml",
 	"service": "app",
-	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+	"workspaceFolder": "/${localWorkspaceFolderBasename}",
 	"shutdownAction": "stopCompose",
 	"postStartCommand": "bundle exec jekyll serve --watch --force_polling --verbose --livereload --host 0.0.0.0",
   "containerUser": "ruby"
